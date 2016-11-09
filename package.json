@@ -3,7 +3,7 @@
     "displayName": "Life On Mars",
     "icon": "lom.svg",
     "description": "Minimal theme with balanced colors. From Space.",
-    "version": "0.2.0",
+    "version": "0.6.0",
     "publisher": "jwoelper",
     "repository": {
         "type": "git",
