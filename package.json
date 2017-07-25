@@ -1,9 +1,9 @@
 {
     "name": "theme-lifeonmars",
     "displayName": "Life On Mars",
-    "icon": "lom.svg",
+    "icon": "lom.png",
     "description": "Minimal theme with balanced colors. From Space.",
-    "version": "0.7.0",
+    "version": "0.8.1",
     "publisher": "jwoelper",
     "repository": {
         "type": "git",
