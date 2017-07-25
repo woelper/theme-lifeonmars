@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#222222</string>
 				<key>selection</key>
-				<string>#111111</string>
+				<string>#00FCD63B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,7 +292,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.blight</string>
+	<string>theme.dark.life_on_mars</string>
 	<key>author</key>
 	<string>Johann Woelper</string>
 	<key>comment</key>
