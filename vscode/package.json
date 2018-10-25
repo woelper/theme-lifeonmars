@@ -1,0 +1,27 @@
+{
+    "name": "theme-lifeonmars",
+    "displayName": "Life On Mars",
+    "icon": "lom.png",
+    "description": "Minimal theme with balanced colors. From Space.",
+    "version": "0.8.1",
+    "publisher": "jwoelper",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/woelper/theme-lifeonmars.git"
+    },
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Life on mars",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lifeonmars.tmTheme"
+            }
+        ]
+    }
+}
