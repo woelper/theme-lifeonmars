@@ -1,0 +1,13 @@
+{
+	"tokenColors": "./Lifeonmars.tmTheme",
+	"colors": {
+		"editor.background": "#2E2929",
+		"editorCursor.foreground": "#F92672",
+		"editor.foreground": "#D6D6D6",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#222222",
+		"editor.selectionBackground": "#00cafc65",
+		"statusBar.background" : "#3b3a32",
+	},
+	"name": "Life on mars"
+}
